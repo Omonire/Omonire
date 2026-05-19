@@ -1,59 +1,75 @@
-# Hi there, I'm Omonire 👋
+# `SYSTEM_INIT: OMONIRE` 🖥️
 
-### Full Stack Developer & Ethical Hacker 🚀
-
-I'm a passionate developer and cybersecurity enthusiast focused on building high-performance applications and ensuring digital integrity. I specialize in Python, React, and Ethical Hacking, and I'm currently looking for **Remote Opportunities** where I can contribute my skills to innovative projects.
+```text
+> WHOAMI: Full Stack Developer | Ethical Hacker | AI Integrator
+> STATUS: Active_Seeking_Remote_Ops
+> LOCATION: Distributed_Node
+```
 
 ---
 
-### 🛠 Tech Stack & Skills
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![React](https://img.shields.io/badge/react-%2320232d.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+### `[01] CORE_PROTOCOL (TECH_STACK)`
+> **Languages & Frameworks**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/Ethical%20Hacking-red?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
+> **Security & Infrastructure**
+![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-### 🚀 Featured Projects
+### `[02] ACTIVE_DEPLOYMENTS (PROJECTS)`
 
-- **[GWorkspaceAI](https://github.com/Omonire/google)** 🤖
-  Full-stack AI assistant for Google Workspace. A unified natural language interface for Gmail, Drive, Calendar, and more. Built with Flask, SQLAlchemy, OAuth, and a premium 3D Glass-morphism UI.
+#### 🛰️ `NODE: GWorkspaceAI`
+> **DESC:** Unified AI interface for Google Workspace ecosystem.
+> **INTEL:** Flask + SQLAlchemy + OAuth + 3D Glass-morphism.
+> **REPO:** [Omonire/google](https://github.com/Omonire/google)
 
-- **[ExamPermute](https://github.com/Omonire/copilot-shi)** 🎓
-  Master any exam with Neural AI. A high-performance EdTech platform that generates infinite, high-fidelity practice exams using Gemini 2.0 Flash to target cognitive gaps. [Live Demo](https://copilot-shi.onvercel.app)
+#### 🧬 `NODE: ExamPermute`
+> **DESC:** Neural Syllabus Mapping & Infinite Question Permutation.
+> **INTEL:** Gemini 2.0 Flash (OpenRouter) + Flask + Three.js.
+> **URL:** [copilot-shi.onvercel.app](https://copilot-shi.onvercel.app)
 
-- **[AtendeXportal](https://github.com/Omonire/AtendeXportal-University)** 📍
-  An integrity-based GPS and token-based attendance system designed for schools to ensure accurate and tamper-proof attendance tracking.
+#### 📍 `NODE: AtendeXportal`
+> **DESC:** GPS & Token-based Attendance Integrity System.
+> **INTEL:** High-fidelity location validation for educational institutions.
+> **REPO:** [Omonire/AtendeXportal-University](https://github.com/Omonire/AtendeXportal-University)
 
 ---
 
-### 📊 GitHub Stats
+### `[03] ANALYTICS`
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Omonire&show_icons=true&theme=tokyonight" alt="Omonire's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omonire&layout=compact&theme=tokyonight" alt="Omonire's Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=Omonire&show_icons=true&theme=neon" alt="System Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omonire&layout=compact&theme=neon" alt="Language Analysis" />
 </p>
-
----
-
-### 📫 Connect with Me
-
-- 📧 Email: [omonire4@gmail.com](mailto:omonire4@gmail.com)
-- 🎵 TikTok: [@omoniregr8](https://www.tiktok.com/@omoniregr8)
-- 👨‍💻 Pronouns: He/Him
-
----
-
-### 💼 Hire Me
-I am actively seeking **Remote Work** in Web Development (Full Stack) or Cybersecurity. If you're looking for a dedicated developer who values security and performance, let's talk!
-
----
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Omonire&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Omonire&theme=neon" alt="Operational Streak" />
 </p>
+
+---
+
+### `[04] UPLINK_CHANNELS (CONTACT)`
+```yaml
+IDENT: Omonire
+PRONOUNS: He/Him
+COMMS: omonire4@gmail.com
+TIKTOK: @omoniregr8
+```
+
+---
+
+### `[05] REQUEST_REMOTE_ACCESS`
+> **MISSION:** Available for Remote Full-Stack/Cybersec Engineering roles.
+> **QUERY:** Ready to optimize your infrastructure. [Ping Me](mailto:omonire4@gmail.com).
+
+```bash
+> Connection secure.
+> Session persistent.
+> EOF
+```
