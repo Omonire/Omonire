@@ -29,6 +29,10 @@
 > **INTEL:** Flask + SQLAlchemy + OAuth + 3D Glass-morphism.
 > **REPO:** [Omonire/google](https://github.com/Omonire/google)
 
+<div align="center">
+  <video src="assets/gworkspace_demo.webm" width="100%" controls autoplay loop muted></video>
+</div>
+
 #### 🧬 `NODE: ExamPermute`
 > **DESC:** Neural Syllabus Mapping & Infinite Question Permutation.
 > **INTEL:** Gemini 2.0 Flash (OpenRouter) + Flask + Three.js.
