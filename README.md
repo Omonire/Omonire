@@ -1,38 +1,55 @@
-# Hi there, I'm Omonire 👋
+# Hi, I'm Omonire 👋
 
-### Full Stack Developer & Ethical Hacker 🚀
+### Founder & CEO, Atendex 🚀
 
-I'm a passionate developer and cybersecurity enthusiast focused on building high-performance applications and ensuring digital integrity. I specialize in Python, React, and Ethical Hacking, and I'm currently looking for **Remote Opportunities** where I can contribute my skills to innovative projects.
+### Full-Stack Architect | Cybersecurity Strategist
 
----
+I’m the Founder & CEO of **Atendex**, where I design and lead the development of secure, scalable digital solutions focused on integrity, automation, and real-world impact.
 
-### 🛠 Tech Stack & Skills
+With a strong foundation in **full-stack engineering and cybersecurity**, I bridge the gap between product vision and execution—building systems that are not only high-performing but also resilient by design.
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![React](https://img.shields.io/badge/react-%2320232d.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/Ethical%20Hacking-red?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+I specialize in **Python, React, and secure system architecture**, and I’m driven by a mission to create technology that solves meaningful problems—especially in **education, productivity, and digital trust**.
 
 ---
 
-### 🚀 Featured Projects
+### 🧠 Leadership & Expertise
 
-- **[GWorkspaceAI](https://github.com/Omonire/google)** 🤖
-  Full-stack AI assistant for Google Workspace. A unified natural language interface for Gmail, Drive, Calendar, and more. Built with Flask, SQLAlchemy, OAuth, and a premium 3D Glass-morphism UI.
-
-- **[ExamPermute](https://github.com/Omonire/copilot-shi)** 🎓
-  Master any exam with Neural AI. A high-performance EdTech platform that generates infinite, high-fidelity practice exams using Gemini 2.0 Flash to target cognitive gaps. [Live Demo](https://copilot-shi.onvercel.app)
-
-- **[AtendeXportal](https://github.com/Omonire/AtendeXportal-University)** 📍
-  An integrity-based GPS and token-based attendance system designed for schools to ensure accurate and tamper-proof attendance tracking.
+* 🚀 Product Strategy & Technical Leadership
+* 🔐 Cybersecurity & Ethical Hacking (Security-first systems)
+* ⚙️ Full-Stack Development (Python, React, Flask)
+* 🏗 Scalable System Design & Architecture
+* 🤖 AI Integration & Automation
 
 ---
 
-### 📊 GitHub Stats
+### 🛠 Core Tech Stack
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
+![React](https://img.shields.io/badge/react-%2320232d.svg?style=for-the-badge\&logo=react\&logoColor=%2361DAFB)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge\&logo=flask\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Ethical%20Hacking-red?style=for-the-badge\&logo=kali-linux\&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge\&logo=vercel\&logoColor=white)
+
+---
+
+### 🚀 Key Projects & Innovations
+
+* **[GWorkspaceAI](https://github.com/Omonire/google)** 🤖
+  An AI-powered productivity engine for Google Workspace, enabling natural language control across Gmail, Drive, and Calendar. Built with Flask, OAuth, and advanced UI systems.
+
+* **[ExamPermute](https://github.com/Omonire/copilot-shi)** 🎓
+  An intelligent EdTech platform leveraging AI to generate adaptive, high-quality practice exams that target user knowledge gaps.
+  🔗 Live: https://copilot-shi.onvercel.app
+
+* **[Atendex Portal](https://github.com/Omonire/AtendeXportal-University)** 📍
+  A flagship Atendex solution—secure, GPS-based and token-driven attendance infrastructure designed to eliminate fraud and ensure institutional integrity.
+
+---
+
+### 📊 GitHub Insights
 
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=Omonire&show_icons=true&theme=tokyonight" alt="Omonire's GitHub Stats" />
@@ -41,16 +58,22 @@ I'm a passionate developer and cybersecurity enthusiast focused on building high
 
 ---
 
-### 📫 Connect with Me
+### 📫 Contact & Presence
 
-- 📧 Email: [omonire4@gmail.com](mailto:omonire4@gmail.com)
-- 🎵 TikTok: [@omoniregr8](https://www.tiktok.com/@omoniregr8)
-- 👨‍💻 Pronouns: He/Him
+* 📧 Email: [omonire4@gmail.com](mailto:omonire4@gmail.com)
+* 🎵 TikTok: https://www.tiktok.com/@omoniregr8
 
 ---
 
-### 💼 Hire Me
-I am actively seeking **Remote Work** in Web Development (Full Stack) or Cybersecurity. If you're looking for a dedicated developer who values security and performance, let's talk!
+### 💼 Collaboration & Opportunities
+
+I’m open to **strategic partnerships, remote roles, and high-impact collaborations** in:
+
+* Full-Stack Engineering
+* Cybersecurity & Secure Systems
+* AI-powered Product Development
+
+If you're building something meaningful or need a technical leader who understands both **code and vision**, let’s connect.
 
 ---
 
